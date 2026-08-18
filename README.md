@@ -321,3 +321,21 @@ Title Generator/
     │   └── RulesSummary.tsx
     └── styles.css
 ```
+## License
+
+Released under the [MIT License](LICENSE) — free to use, modify, and distribute,
+including commercially, provided the copyright notice is retained. Provided as
+is, without warranty.
+
+## Team
+
+Built and maintained by:
+
+- [Ali Ahmadi](https://github.com/aliahmadi1382)
+- [Mostafa Taghipour](https://github.com/MoStafaMTP)
+
+---
+
+<p align="center">
+  <sub>A <a href="https://glimacode.com">GlimaCode</a> project — a two-developer web studio.</sub>
+</p>
